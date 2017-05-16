@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    margin: 3em auto;
+    width: 50%;
+    height: auto;
+    background: black;
+    -webkit-box-shadow: -0.1em 0.1em 1.3em 0.4em rgba(168,165,168,0.59);
+    -moz-box-shadow: -0.1em 0.1em 1.3em 0.4em rgba(168,165,168,0.59);
+    box-shadow: -0.1em 0.1em 1.3em 0.4em rgba(168,165,168,0.59);
+}
+.box img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
